@@ -1,4 +1,4 @@
-## Hi there 👋
+This is my first Git Repository.
 
 <!--
 **Pravat2801/Pravat2801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
